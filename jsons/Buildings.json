@@ -11,11 +11,11 @@
 
 { "name": "Hack Land Military Recruiting Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "When defeating a [All] unit, earn [10000] Gold and recruit it" ] }  
 
-{ "name": "Hack Land Military Defense Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000%] Strength <when defending> <when [Embarked]> <for [All] units>", "[+1000]% Strength <when defending>" ] } 
+{ "name": "Hack Land Military Defense Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000%] Strength <when defending> <when [Embarked]>", "[+1000]% Strength <when defending>" ] } 
 
 { "name": "Hack Land Military Hack 2", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000]% Strength <vs [All] units>" ] } 
 
-{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Damage is ignored when determining unit Strength <for [All] units>", "Military Units gifted from City-States start with [10000] XP", "New [All] units start with [10000] XP [in all cities]", "Units ending their turn on [Mountain] tiles take [0] damage" ] } 
+{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "No damage penalty for wounded units", "Military Units gifted from City-States start with [10000] XP", "New [All] units start with [10000] XP [in all cities]", "Units ending their turn on [Mountain] tiles take [0] damage" ] } 
 
 { "name": "Hack Land City-States Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns", "City-State territory always counts as friendly territory", "[10000]% resources gifted by City-States", "[-10000]% City-State Influence degradation", "Resting point for Influence with City-States is increased by [10000]", "Influence of all other civilizations with all city-states degrades [10000]% faster", "Gifts of Gold to City-States generate [10000]% more Influence" ] } 
 
